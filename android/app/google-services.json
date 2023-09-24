@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212429763803",
+    "project_id": "futchdata",
+    "storage_bucket": "futchdata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212429763803:android:f12c505c0de260ec3008fe",
+        "android_client_info": {
+          "package_name": "com.example.futchinformation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe345NYgWkMIHoBlbtDxUHfgupcXrL4z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
